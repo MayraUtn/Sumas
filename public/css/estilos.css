@@ -1,0 +1,47 @@
+body {
+ margin: 0;
+ background-color: rgba(235, 107, 218, 0.918);
+}
+
+body, input, a {
+ font-family: sans-serif
+}
+
+header {
+ text-align: center
+}
+
+main {
+ max-width: 600px;
+ margin: 0 auto;
+ background-color: rgba(235, 107, 218, 0.918);
+}
+
+p {
+ margin: 1em;
+ font-family: Times;
+ text-align: center;
+}
+
+label {
+ display: block;
+ font-size: small;
+ font-weight: bold
+}
+
+label>* {
+ display: block;
+ width: 100%
+}
+
+h1{
+    color: aquamarine;
+    font-family: Times;
+}
+
+#pie{
+    clear: both;
+    padding: 15px;
+    color: black;
+    font: Times 14px;
+}
